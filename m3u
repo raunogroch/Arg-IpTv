@@ -82,20 +82,47 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/Stream(05)/index.m
 #EXTINF:-1 group-title="Premium",FX HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FX_HD)/index.m3u8
 
-#EXTINF:434 group-title="Premium",FOX Cinema
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CINEMA_HD)/index.m3u8
+#EXTINF:434 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/channel4.jpg",FOX Cinema
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8883
 
-#EXTINF:435 group-title="Premium",Fox Action
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXACTION_HD)/index.m3u8
+#EXTINF:434 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/channel4.jpg",FOX Cinema HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/2262
 
-#EXTINF:440 group-title="Premium",FOX Movies
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOXMOVIES_HD)/index.m3u8
+#EXTINF:-1 tvg-id="foxcomedy.mx" tvg-name="FOX Comedy" tvg-logo="http://www.chileiptv.xyz/logos/channel6.jpg" group-title="Premium", 
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/2264
 
-#EXTINF:442 group-title="Premium",FOX Classics
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(FOX_CLASSICS_HD)/index.m3u8
+#EXTINF:-1 tvg-id="foxcomedy.mx" tvg-name="FOX Comedy FHD" tvg-logo="http://www.chileiptv.xyz/logos/hondurasofc/foxpcomedy.jpg" group-title="Premium",Fox Comedy HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9123
 
-#EXTINF:-1 group-title="Premium",Fox Life
-http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/601/index.m3u8
+#EXTINF:435 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/167.jpg",FOX Action 
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8885
+
+#EXTINF:435 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/167.jpg",FOX Action HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9121
+
+#EXTINF:440 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/171.jpg",FOX Movies
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8880
+
+#EXTINF:440 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/171.jpg",FOX Movies HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9120
+
+#EXTINF:442 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/169.jpg",FOX Classics
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8882
+
+#EXTINF:442 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/169.jpg",FOX Classics HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/10284
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://image.ibb.co/jUQ3ub/foxfamily.png",FOX Family
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/10284
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://image.ibb.co/jUQ3ub/foxfamily.png",FOX Family HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9122
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/170.jpg",FOX Life
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8881
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/170.jpg",FOX Life HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8614
 
 #EXTINF:-1 group-title="Premium",Film Zone HD
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(03)/index.m3u8
