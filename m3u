@@ -131,16 +131,34 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(THE_FILM_ZONE_HD)/Stream(
 http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(GOLDEN)/index.m3u8
 
 #EXTINF:450 group-title="Premium",HBO
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_HD)/index.m3u8
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/12265
 
-#EXTINF:-1 group-title="Premium", HBO Family
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_FAMILY_HD)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://image.ibb.co/eyhJ8k/hbohdsa.png",HBO HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9146
 
-#EXTINF:456 group-title="Premium",HBO Plus
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_PLUS_HD)/index.m3u8?srregio
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/178.jpg",HBO 2
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/316
 
-#EXTINF:-1 group-title="Premium",HBO Signature
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HBO_SIGNATURE_HD)/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/178.jpg",HBO 2 HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9147
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/181.jpg", HBO Family
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/315
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/181.jpg", HBO Family HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9163
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/179.jpg",HBO Plus
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/120
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/179.jpg",HBO Plus HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/1863
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/180.jpg",HBO Signature
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/409
+
+#EXTINF:-1 group-title="Premium" tvg-logo="http://www.chileiptv.xyz/logos/180.jpg",HBO Signature HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9161
 
 #EXTINF:-1 group-title="Premium",I-Sat
 
