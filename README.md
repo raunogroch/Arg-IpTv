@@ -17,7 +17,7 @@ Lista Iptv de Argentina
 
 # Windows
 
-1. Descargar e instalar Rosadin Tv de aqui http://www.mediafire.com/file/mjt16nygimt8k99/Rosadintv.rar
+1. Descargar e instalar Rosadin Tv de aqui http://www.mediafire.com/file/mjt16nygimt8k99/Rosadintv.rar (contraseña: JEYCEOFICIAL)
 2. Abrir Rosadin (esperar a que cargue todo)
 3. Agregar en "Lista remota"
 4. Agregar URL
