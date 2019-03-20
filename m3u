@@ -247,30 +247,53 @@ http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(NATGEO_HD)/Stream(05)/ind
 
 ########## INFANTILES ##########
 
-#EXTINF:-1 group-title="Infantiles", Anime
+#EXTINF:-1 group-title="Infantiles", Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8 
 
-#EXTINF:-1 group-title="Infantiles", Cartoon Network
+#EXTINF:323 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/151.jpg",Boomerang
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/15
 
-#EXTINF:323 group-title="Infantiles",Boomerang
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(BOOMERANG)/Stream(04)/index.m3u8
+#EXTINF:323 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/151.jpg",Boomerang HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/9141
 
-#EXTINF:-1 group-title="Infantiles",Disney XD
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_XD)/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/146.jpg", Cartoon Network
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8742
 
-#EXTINF:-1 group-title="Infantiles",Disney Jr
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(DISNEY_JR)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/147.jpg",Discovery Kids
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/27
 
-#EXTINF:-1 group-title="Infantiles",Discovery Kids
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/147.jpg",Discovery Kids HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/8728
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/148.jpg",Disney Channel
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/34
 
-#EXTINF:-1 group-title="Infantiles",Nickelodeon
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/148.jpg",Disney Channel HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/12267
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/150.jpg",Disney XD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/36
 
-#EXTINF:-1 group-title="Infantiles",Nickelodeon HD
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/150.jpg",Disney XD HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/36
 
-#EXTINF:-1 group-title="Infantiles",Tooncast
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(TOONCAST)/index.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/149.jpg",Disney Jr
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/2298
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/149.jpg",Disney Jr HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/12271
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/141.jpg",Nickelodeon
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/12268
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/141.jpg",Nickelodeon HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/12269
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/143.jpg",Tooncast
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/99
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="http://www.chileiptv.xyz/logos/faltan/pakapak.jpg",Paka Paka
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/12270
 
 ########## Deportes ##########
 
