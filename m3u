@@ -296,6 +296,20 @@ http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/99
 http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/12270
 
 ########## Deportes ##########
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.chileiptv.xyz/logos/channel95.jpg",Fox Sports
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/11460
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.chileiptv.xyz/logos/channel95.jpg",Fox Sports FHD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/2002
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.chileiptv.xyz/logos/channel99.jpg",Fox Sports Premium
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/11457
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.chileiptv.xyz/logos/channel99.jpg",Fox Sports Premium HD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/1533
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="http://www.chileiptv.xyz/logos/channel99.jpg",Fox Sports Premium FHD
+http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/11456
 
 #EXTINF:-1 group-title="Deportes" tvg-logo="http://www.chileiptv.xyz/logos/argofc/tnts.jpg",TNT Sport HD
 http://tvla.xyz:25461/TtrP4UF5k/dQ5B41c4bm/7109
