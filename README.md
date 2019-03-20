@@ -9,9 +9,8 @@ Lista IpTV de Argentina
 # Android
 
 1. Descargar IPTV (Icono azul en PlayStore).
-2. Descargar Reproductor MX (para reproduccion).
-3. Entrar a IPTV.
-4. Agregar URL, colocar nombre deseado en la leyenda "Nombre de lista de reproduccion" y dar a aceptar.
+2. Entrar a IPTV.
+3. Agregar URL, colocar nombre deseado en la leyenda "Nombre de lista de reproduccion" y dar a aceptar.
 
     https://raw.githubusercontent.com/srfarias/Arg-IpTv/master/m3u
     
