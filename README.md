@@ -1,7 +1,8 @@
 # Arg-IpTv
 Lista IpTV de Argentina 
 
-* Contiene canales premium de peliculas/series, documentales e infantiles, noticias, peliculas etc.. (Ej: Disney XD - Discovery - FOX, etc). 
+* Contiene canales premium de peliculas, series, documentales, infantiles, noticias, etc.. (Ej: Disney XD - Discovery - FOX, etc). 
+* Proximamente contendra streaming de Peliculas y posiblemente Series
 * Disposible en Android (Smart TV, Celular, Tablet, etc) o Windows
 * En algunos SmartTV (no-android) suelen venir por defecto apps de IPTV, por lo que esta configuracion puede no ser util
 * Funciona tambien con ChromeCast (o cualquier cast); pueden buscar por 'Cast IpTV' en PlayStore
