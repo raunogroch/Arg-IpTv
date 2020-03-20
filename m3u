@@ -48,19 +48,19 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/431.ts
 #EXTINF:-1 group-title="Premium",A&E
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/429.ts
 
-#EXTINF:-1 group-title="Premium",Cinecanal
+#EXTINF:-1 group-title="Premium" tvg-logo="http://puu.sh/reQmr/5de8d7417e.png",Cinecanal
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/357.ts
 
-#EXTINF:-1 group-title="Premium",Cinecanal (Opcion 2)
+#EXTINF:-1 group-title="Premium" tvg-logo="http://puu.sh/reQmr/5de8d7417e.png",Cinecanal (Opcion 2)
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/454.ts
 
-#EXTINF:-1 group-title="Premium",CineLatino
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EdMMQTy.jpg",CineLatino
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/455.ts
 
 #EXTINF:-1 group-title="Premium",Cinemax
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/456.ts
 
-#EXTINF:-1 group-title="Premium",De Pelicula
+#EXTINF:-1 group-title="Premium" tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png",De Pelicula
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/462.ts
 
 #EXTINF:-1 group-title="Premium",Fox
@@ -75,22 +75,22 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/489.ts
 #EXTINF:-1 group-title="Premium",Fox Premium Action
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/490.ts
 
-#EXTINF:-1 group-title="Premium",Fox Premium Cinema
+#EXTINF:-1 group-title="Premium"  tvg-logo="https://www.cablebahamas.com/wp-content/uploads/2015/09/FOX-Premium-Cinema-Logo-300x98.png",Fox Premium Cinema
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/491.ts
 
-#EXTINF:-1 group-title="Premium",Fox Premium Movies
+#EXTINF:-1 group-title="Premium" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png",Fox Premium Movies
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/493.ts
 
 #EXTINF:-1 group-title="Premium",Fox Series
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/494.ts
 
-#EXTINF:-1 group-title="Premium",FX
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/fvDxcTN.png",FX
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/500.ts
 
-#EXTINF:-1 group-title="Premium",FXM
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/7lvV8bM.png",FXM
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/501.ts
 
-#EXTINF:-1 group-title="Premium",HBO 1
+#EXTINF:-1 group-title="Premium" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/hbo1_black.jpg",HBO 1
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/510.ts
 
 #EXTINF:-1 group-title="Premium",HBO 2
@@ -99,16 +99,16 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/359.ts
 #EXTINF:-1 group-title="Premium",HBO 2 (Opcion 2)
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/511.ts
 
-#EXTINF:-1 group-title="Premium",HBO Family
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EsaA77Q.jpg",HBO Family
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/512.ts
 
-#EXTINF:-1 group-title="Premium",HBO Signature
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/kFkEVHy.jpg",HBO Signature
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.ts
 
-#EXTINF:-1 group-title="Premium",Space
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/dU67aNE.png",Space
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/552.m3u8
 
-#EXTINF:-1 group-title="Premium",TNT Series
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/0jJ1TNo.png",TNT Series
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/307.ts
 
 
@@ -123,7 +123,7 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/463.ts
 #EXTINF:-1 group-title="Documentales",Discovery Civilization
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/464.ts
 
-#EXTINF:-1 group-title="Documentales",Discovery Home & Health
+#EXTINF:-1 group-title="Documentales" tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png",Discovery Home & Health
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/465.ts
 
 #EXTINF:-1 group-title="Documentales",Discovery Science
