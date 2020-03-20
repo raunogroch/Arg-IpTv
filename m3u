@@ -105,6 +105,9 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/512.ts
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/kFkEVHy.jpg",HBO Signature
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.ts
 
+#EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EO0x9Vv.jpg",Max Prime
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/524.ts
+
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/dU67aNE.png",Space
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/552.m3u8
 
@@ -140,6 +143,12 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/471.ts
 
 #EXTINF:-1 group-title="Documentales",History
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/514.ts
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/InvestigationDiscovery.png",Investigation Discovery
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/518.ts
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://i.imgur.com/bFTjNRb.png", Lifetime
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/522.ts
 
 #EXTINF:-1 group-title="Documentales",Natgeo
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/534.ts
@@ -180,14 +189,101 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/540.ts
 
 ########## Deportes ##########
 
-#EXTINF:-1 ,Fox Sports 1
+#EXTINF:-1 group-title="Deportes",Fox Sports 1
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/496.ts
 
-#EXTINF:-1 ,Fox Sports 2
+#EXTINF:-1 group-title="Deportes",Fox Sports 2
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/497.ts
 
-#EXTINF:-1 ,Fox Sports 3
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/498.ts
+
+
+########## 24/7 ##########
+
+#EXTINF:-1 group-title="24/7",Terror
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/684.ts
+
+#EXTINF:-1 group-title="24/7",Super Campeones
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/685.ts
+
+#EXTINF:-1 group-title="24/7",Stranger Things
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/686.ts
+
+#EXTINF:-1 group-title="24/7",Sspiderman
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/687.ts
+
+#EXTINF:-1 group-title="24/7",South Park
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/688.ts
+
+#EXTINF:-1 group-title="24/7",Smallville
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/689.ts
+
+#EXTINF:-1 group-title="24/7",Simpsons
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/690.ts
+
+#EXTINF:-1 group-title="24/7",Shera
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/691.ts
+
+#EXTINF:-1 group-title="24/7",Sailor
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/692.ts
+
+#EXTINF:-1 group-title="24/7",Robotech
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/693.ts
+
+#EXTINF:-1 group-title="24/7",Power Rangers
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/694.ts
+
+#EXTINF:-1 group-title="24/7",Pokemon
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/695.ts
+
+#EXTINF:-1 group-title="24/7",Pinky
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/696.ts
+
+#EXTINF:-1 group-title="24/7",Naruto
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/697.ts
+
+#EXTINF:-1 group-title="24/7",Mazingerz
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/698.ts
+
+#EXTINF:-1 group-title="24/7",Maravillosos
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/699.ts
+
+#EXTINF:-1 group-title="24/7",He Man
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/702.ts
+
+#EXTINF:-1 group-title="24/7",El señor de los cielos
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/703.ts
+
+#EXTINF:-1 group-title="24/7",El Chema
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/704.ts
+
+#EXTINF:-1 group-title="24/7",El Chavo del 8
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/705.ts
+
+#EXTINF:-1 group-title="24/7",El Chapulín Colorado
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/706.ts
+
+#EXTINF:-1 group-title="24/7",Dragon Ball Z
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/707.ts
+
+#EXTINF:-1 group-title="24/7",Dragon Ball Super
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/708.ts
+
+#EXTINF:-1 group-title="24/7",Dragon Ball GT
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/709.ts
+
+#EXTINF:-1 group-title="24/7",Dinosaurios
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/710.ts
+
+#EXTINF:-1 group-title="24/7",Desafio Sobre Fuego LATAM
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/711.ts
+
+#EXTINF:-1 group-title="24/7",Casa de Papel
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/712.ts
+
+#EXTINF:-1 group-title="24/7",Caballeros del Zodiaco
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/713.ts
 
 
 ########## Musica ##########
@@ -195,11 +291,14 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/498.ts
 #EXTINF:0 group-title="Musica",Music Top HD
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
-#EXTINF:0 group-title="Musica", Music Top
+#EXTINF:0 group-title="Musica",Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 group-title="Musica",Melody Channel
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/MTV_Latino.png",MTV
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/531.ts
 
 #EXTINF:0 group-title="Musica", Terramia TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
