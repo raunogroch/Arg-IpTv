@@ -90,6 +90,12 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/500.ts
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/7lvV8bM.png",FXM
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/501.ts
 
+#EXTINF:-1 group-title="Premium",HBO
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/595.ts
+
+#EXTINF:-1 group-title="Premium",HBO Plus
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/597.ts
+
 #EXTINF:-1 group-title="Premium" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/hbo1_black.jpg",HBO 1
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/510.ts
 
@@ -108,11 +114,35 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/513.ts
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/EO0x9Vv.jpg",Max Prime
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/524.ts
 
+#EXTINF:-1 group-title="Premium",Sony
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/551.ts
+
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/dU67aNE.png",Space
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/552.m3u8
 
+#EXTINF:-1 group-title="Premium",Studio Universal
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/553.ts
+
+#EXTINF:-1 group-title="Premium",Sundance
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/554.ts
+
+#EXTINF:-1 group-title="Premium",Syfy
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/556.ts
+
+#EXTINF:-1 group-title="Premium",TBS
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/557.ts
+
+#EXTINF:-1 group-title="Premium",TCM
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/558.ts
+
+#EXTINF:-1 group-title="Premium",TNT
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/567.ts
+
 #EXTINF:-1 group-title="Premium" tvg-logo="https://i.imgur.com/0jJ1TNo.png",TNT Series
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/307.ts
+
+#EXTINF:-1 group-title="Premium",Universal Channel
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/577.ts
 
 
 ########## Documentales ##########
@@ -140,6 +170,9 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/470.ts
 
 #EXTINF:-1 group-title="Documentales",Discovery World
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/471.ts
+
+#EXTINF:-1 group-title="Documentales",E!
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/477.ts
 
 #EXTINF:-1 group-title="Documentales",History
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/514.ts
@@ -186,8 +219,26 @@ http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/536.ts
 #EXTINF:-1 group-title="Infantiles",NickToons
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/540.ts
 
+#EXTINF:-1 group-title="Infantiles",ToonCast
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/569.ts
+
 
 ########## Deportes ##########
+
+#EXTINF:-1 group-title="Deportes",ESPN 1
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/479.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/480.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN PLUS
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/482.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN SEC
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/483.ts
+
+#EXTINF:-1 group-title="Deportes",ESPN U
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/484.ts
 
 #EXTINF:-1 group-title="Deportes",Fox Sports 1
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/496.ts
