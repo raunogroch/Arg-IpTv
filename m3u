@@ -1,89 +1,123 @@
-#EXTM3U
-#EXTINF:0,Canal 26
+#EXTM3U Argentina
+
+########## Noticias ##########
+
+#EXTINF:0 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1242114940/LogoCanal26.jpg",Canal 26 HD
 http://200.115.193.177/live/26hd-720/.m3u8
-#EXTINF:0,Telemax HD
+
+#EXTINF:0 group-title="Noticias", Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="Noticias",Telemax HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:0,El Trece
+
+#EXTINF:0 group-title="Noticias",El Trece
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?JoCaRoIPTV.m3u8
-#EXTINF:0, Anime TV
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
-#EXTINF:0,Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
-#EXTINF:0,Music Top
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-#EXTINF:0,La forma del agua
-https://storage.googleapis.com/new-project-189619.appspot.com/shapagua.mp4
-#EXTINF:0, Somos Rosario
-http://s8.stweb.tv/chacra/rosario_abr/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Chacra TV
-https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal de la Ciudad
+
+#EXTINF:0 group-title="Noticias", Canal de la Ciudad
 https://ar10.stweb.tv/canalciudad/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, TV Publica
+
+#EXTINF:0 group-title="Noticias", TV Publica
 https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="Noticias", Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="Noticias", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+
+########## Premium ##########
+
+#EXTINF:0 group-title="Premium", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+
+########## Documentales ##########
+
+########## Infantiles ##########
+
+#EXTINF:0 group-title="Infantiles", Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+########## Deportes ##########
+
+########## Musica ##########
+
+#EXTINF:0 group-title="Musica",Music Top HD
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:0 group-title="Musica", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:0 group-title="Musica",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?eamogratis?Musica.m3u8
+
+########## Peliculas ##########
+
+
+
+
+
+
+#EXTINF:0,La forma del agua
+#https://storage.googleapis.com/new-project-189619.appspot.com/shapagua.mp4
+#EXTINF:0, Somos Rosario
+#http://s8.stweb.tv/chacra/rosario_abr/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Chacra TV
+#https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, CL3 Cablevision
-http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
+#http://stream02.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, 13 Max Television
-http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
+#http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Quatro TV
-https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
+#https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Unirio TV
-https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
+#https://59db7e671a1ad.streamlock.net/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal Local Olavarria
-http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8?PlaylistM3UCL
+#http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Telpin Canal 2
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+#https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 3 Pinamar
-http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
+#http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal XFN
-https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+#https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 4 Bahia Blanca
-https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8?PlaylistM3UCL
+#https://cdn2.zencast.tv:30443/bahiablanca/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 6 Moreno
-https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
+#https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal Cinco Tigre
-https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
+#https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 7 Chubut
-http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
+#http://stream.chubut.gov.ar:1935/C7/vivo.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 12 Madryn TV
-https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+#https://59db7e671a1ad.streamlock.net/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal U
 https://wowzaprod169-i.akamaihd.net/hls/live/630337/d7502ff7/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 10
-https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?PlaylistM3UCL
+#https://wowzaprod169-i.akamaihd.net/hls/live/630337/59e4c1ec/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Chaco TV
-https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
+#https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Multivisión
-http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Canal 26
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+#http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, 10 TV
-http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Argentinisima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+#http://streamingvideo.com.ar:1935/10tv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, TV Mana
-http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
+#http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Terramia TV
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:0, Telemax
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8?PlaylistM3UCL
+#http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:0, Señal Provincial
-http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8?PlaylistM3UCL
+#http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8?PlaylistM3UCL
 #EXTINF:0, RTN
-http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:0, Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:0, Litus TV
-http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
+#http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, Televida
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist.m3u8?PlaylistM3UCL
+#https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 4 San Juan
-http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8?PlaylistM3UCL
+#http://streamyes.alsolnet.com:1935/canal4sanjuan/live/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 4 Posadas
-https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
+#https://589ff3c36f7e8.streamlock.net/canal4/canal4/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:0, Canal 4 Jujuy
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
+#http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0, 5TV
-http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0, Garage TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8?PlaylistM3UCL
+#http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+
